@@ -1,3 +1,5 @@
+> **Janus fork:** read `JANUS.md` first; its rules override this file where they conflict. Record every divergence from upstream in `PATCHES.md`.
+
 # Development Rules
 
 ## Default Context
